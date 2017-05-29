@@ -4,7 +4,7 @@
 " Flatfoot helps you to quickly jump to arbitrary predefined short patterns
 " within a line.  An example might be to jump between the "humps" of a
 " camelCaseWord.  The interface involves passing f, t, F, or T a control
-" character which corresponds to a predefiend regexp.  The ; and , commands
+" character which corresponds to a predefined regexp.  The ; and , commands
 " will use this regexp as one would expect.
 "
 " A global variable named flatfoot_1 contains the regexp for CTRL-A, and
